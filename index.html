@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>AngularJS</title>
-        <!--<link rel="stylesheet" href="public/bootstrap/css/bootstrap.css">-->
+        <link rel="stylesheet" href="public/bootstrap4/css/bootstrap.css">
         <link rel="stylesheet" href="vendor/twbs/bootstrap/dist/css/bootstrap.css">
 
         <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css">
@@ -12,6 +12,8 @@
     </head>
     <body>
         <h2>Projeto Angular</h2>
+
+        <div ng-view></div>
 
         <div id="idBusca">
             <label for="pesquisaProd"><strong>Produtos</strong></label>
@@ -31,25 +33,26 @@
             </tr>
             </thead>
             <tbody ng-controller="produtosController">
-                <tr ng-repeat="produto in produtos | filter: buscaProdutos | limitTo: 10" >
-                    <td>{{produto.nome | uppercase }}</td>
-                    <td>{{produto.preco | currency: "R$ " }}</td>
-                    <td>{{produto.data | date: "dd/MM/yyyy HH:mm" }}</td>
-                    <td>
-                        <button type="button" class="btn btn-info btn-sm"><span class="glyphicon glyphicon-pencil"></span>Editar</button>
-                    </td>
-                    <td>
-                        <button type="button" class="btn btn-danger btn-sm"><span class="glyphicon glyphicon-remove-circle"></span>Excluir</button>
-                    </td>
-                    <td>
-                        <button type="button" class="btn btn-success btn-sm"><span class="glyphicon glyphicon-remove-circle">Salvar</span></button>
-                    </td>
-                </tr>
+            <tr ng-repeat="produto in produtos | filter: buscaProdutos | limitTo: 10" >
+                <td>{{produto.descricao | uppercase }}</td>
+                <td>{{produto.preco | currency: "R$ " }}</td>
+                <td>{{produto.data | date: "dd/MM/yyyy HH:mm" }}</td>
+                <td>
+                    <button type="button" class="btn btn-info btn-sm"><span class="glyphicon glyphicon-pencil"></span>Editar</button>
+                </td>
+                <td>
+                    <button type="button" class="btn btn-danger btn-sm"><span class="glyphicon glyphicon-remove-circle"></span>Excluir</button>
+                </td>
+                <td>
+                    <button type="button" class="btn btn-success btn-sm"><span class="glyphicon glyphicon-remove-circle">Salvar</span></button>
+                </td>
+            </tr>
             </tbody>
         </table>
 
-        <script src="public/js/jquery/jquery.js"></script>
         <script src="public/js/angular/angular.js"></script>
+        <script src="public/js/jquery/jquery.js"></script>
+        <script src="public/js/angular/route.js"></script>
         <script src="public/js/angular/config.js"></script>
         <script src="public/js/angular/controllers/controllers.js"></script>
         <script src="public/bootstrap4/js/bootstrap.js"></script>

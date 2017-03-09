@@ -1,0 +1,27 @@
+body {
+    font-family: "Kalam";
+    padding: 10px 10px 10px 10px;
+}
+
+#buscar {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+thead {
+    background-color: #5e5e5e;
+    color: #fff;
+    font-family: "Cabin";
+}
+
+h2 {
+    font-family: "Cabin";
+    text-align: center;
+}
+
+
+label {
+    display: block;
+    font-size: 18px;
+}
