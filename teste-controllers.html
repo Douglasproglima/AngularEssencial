@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html ng-app>
+    <head>
+        <meta charset="UTF-8">
+        <title>AngularJS</title>
+        <link rel="stylesheet" href="vendor/twbs/bootstrap/dist/css/bootstrap.css">
+
+        <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
+        <link rel="stylesheet" href="public/css/styles.css">
+    </head>
+    <body>
+        <h2>Projeto Angular</h2>
+
+        </br>
+        <div ng-controller="homeController">
+            <h2>{{nome}}</h2>
+        </div>
+
+        </br>
+
+        <div ng-controller="conteudoController">
+            <h2>{{nome}}</h2>
+        </div>
+
+        <script>
+            function homeController($scope) {
+                $scope.nome = "DouglasProgLima";
+            }
+
+            function conteudoController($scope) {
+                $scope.nome = "Rock Progressivo";
+            }
+        </script>
+
+        <script src="public/js/angular/angular.js"></script>
+        <script src="public/js/jquery/jquery.js"></script>
+    </body>
+</html>
