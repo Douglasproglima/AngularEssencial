@@ -1,0 +1,7 @@
+{
+  "require": {
+    "php-activerecord/php-activerecord": "dev-master",
+    "slim/slim": "^3.0",
+    "twbs/bootstrap": "4.0.0-alpha.6"
+  }
+}
