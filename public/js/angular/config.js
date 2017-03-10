@@ -11,5 +11,6 @@ var produtos=[
 
  myApp.config(function($routeProvider){
     $routeProvider
-        .when('/',{templateUrl: 'app/views/home.html', controller: 'homeController'});
+        .when('/',{templateUrl: 'app/views/home.html', controller: 'homeController'})
+        .when('/contato', {templateUrl: '/app/views/contato.html', controller: 'contatoController'});
  });

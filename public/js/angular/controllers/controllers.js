@@ -1,9 +1,7 @@
-/*myApp.controller('produtosController', function($scope) {
+myApp.controller('homeController', function($scope) {
     $scope.produtos = produtos;
-});*/
+});
 
+myApp.controller('contatoController', function($scope) {
 
-
- myApp.controller('homeController', function($scope) {
-    $scope.produtos = produtos;
- });
+});
