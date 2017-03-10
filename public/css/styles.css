@@ -1,5 +1,6 @@
 body {
     font-family: "Kalam";
+    /*font-family: "Amatic SC";*/
     padding: 10px 10px 10px 10px;
 }
 
@@ -16,6 +17,7 @@ thead {
 }
 
 h2 {
+    /*font-family: "Amatic SC";*/
     font-family: "Cabin";
     text-align: center;
 }
