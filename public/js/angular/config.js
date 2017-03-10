@@ -14,3 +14,10 @@ var produtos=[
         .when('/',{templateUrl: 'app/views/home.html', controller: 'homeController'})
         .when('/contato', {templateUrl: '/app/views/contato.html', controller: 'contatoController'});
  });
+
+ myApp.filter('capitalize', function () {
+    return function (input, scope) {
+        input = input.toLowerCase();
+        return input.substr(0,1).toUpperCase()+input.substr(1);
+    }
+ });

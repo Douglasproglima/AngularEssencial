@@ -16,7 +16,7 @@
         </thead>
         <tbody>
         <tr ng-repeat="produto in produtos | filter: buscaProdutos | limitTo: 10" >
-            <td>{{produto.descricao | uppercase }}</td>
+            <td>{{produto.descricao | capitalize }}</td>
             <td>{{produto.preco | currency: "R$ " }}</td>
             <td>{{produto.data | date: "dd/MM/yyyy HH:mm" }}</td>
 
