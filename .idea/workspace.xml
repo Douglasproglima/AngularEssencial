@@ -1,7 +1,586 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d11a2e4e-599e-4eb6-9825-d5fe8aad30b1" name="Default" comment="" />
+    <list default="true" id="d11a2e4e-599e-4eb6-9825-d5fe8aad30b1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/docs/images/interoperating_containers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/docs/images/priority.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/docs/images/side_by_side_containers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/php-activerecord/php-activerecord" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/brand/bootstrap-social-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/brand/bootstrap-social.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/img/bs-themes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/img/components.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/img/devices.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/img/expo-lyft.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/img/expo-newsweek.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/img/expo-riot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/img/expo-vogue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/img/sass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/album.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/blog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/carousel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/dashboard.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/equal-height-columns.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/grid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/jumbotron-narrow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/jumbotron.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/justified-nav.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/navbar-fixed.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/navbar-static.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/navbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/non-responsive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/offcanvas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/sign-in.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/starter-template.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/sticky-footer-navbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/sticky-footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/screenshots/theme.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/grunt/gcp-key.json.enc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/docs/ContainerInterface-meta.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/docs/ContainerInterface.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/docs/Delegate-lookup-meta.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/docs/Delegate-lookup.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/src/Interop/Container/ContainerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/src/Interop/Container/Exception/ContainerException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/container-interop/container-interop/src/Interop/Container/Exception/NotFoundException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.hhconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/FastRoute.hhi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/BadRouteException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/CharCountBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/GroupCountBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/GroupPosBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/MarkBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/CharCountBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/GroupCountBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/GroupPosBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/MarkBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/RegexBasedAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Route.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteParser/Std.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/CharCountBasedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/DispatcherTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/GroupCountBasedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/GroupPosBasedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/MarkBasedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/HackTypecheckerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/all_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/empty_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/no_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/RouteCollectorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/RouteParser/StdTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/README.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/config.m4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/config.w32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/php_pimple.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/pimple.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/pimple_compat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/001.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/002.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/003.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/004.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/005.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/006.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/007.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/008.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/009.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/010.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/011.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/012.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/013.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/014.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/015.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/016.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/017.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/017_1.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/018.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/019.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/bench.phpb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/bench_shared.phpb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/ServiceProviderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Fixtures/Invokable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Fixtures/NonInvokable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Fixtures/PimpleServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Fixtures/Service.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/PimpleServiceProviderInterfaceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/PimpleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/src/ContainerExceptionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/src/ContainerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/container/src/NotFoundExceptionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/MessageInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/RequestInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ResponseInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ServerRequestInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/StreamInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UploadedFileInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UriInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/App.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/CallableResolver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/CallableResolverAwareTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Collection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/DefaultServicesProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/DeferredCallable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/ContainerException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/ContainerValueNotFoundException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/MethodNotAllowedException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/NotFoundException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/SlimException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Handlers/AbstractError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Handlers/AbstractHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Handlers/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Handlers/NotAllowed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Handlers/NotFound.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Handlers/PhpError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponseArgs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Body.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Cookies.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Environment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Headers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/RequestBody.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Stream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/UploadedFile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Uri.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/CallableResolverInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/CollectionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/Http/CookiesInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/Http/EnvironmentInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/Http/HeadersInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/InvocationStrategyInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/RouteGroupInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/RouteInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Interfaces/RouterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/MiddlewareAwareTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Routable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Route.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/RouteGroup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/slim/slim/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.hound.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.houndignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/.htmlhintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_data/breakpoints.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_data/browser-bugs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_data/browser-features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_data/core-team.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_data/nav.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_data/showcase.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_data/translations.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_includes/ads.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_includes/callout-warning-color-assistive-technologies.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_includes/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_includes/nav-docs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_includes/nav-home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_includes/page-headers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_includes/social.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_layouts/docs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_layouts/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_layouts/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_plugins/bridge.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_plugins/bugify.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_plugins/callout.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_plugins/highlight_alt.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/_plugins/markdown-block.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/about/brand.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/about/history.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/about/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/about/team.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/about/translations.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/brand/bootstrap-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/brand/bootstrap-punchout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/brand/bootstrap-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/css/docs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/css/docs.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/docs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/ie-emulation-modes-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/src/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/vendor/anchor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/vendor/clipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/vendor/holder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/vendor/jekyll-search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/vendor/jquery-slim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/js/vendor/tether.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_ads.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_anchor.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_booticon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_brand.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_browser-bugs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_callouts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_clipboard-js.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_component-examples.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_examples.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_featured-sites.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_featurettes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_masthead.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_page-header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_responsive-tests.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_skiplink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_syntax.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/_team.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/assets/scss/docs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/browser-bugs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/alerts.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/badge.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/breadcrumb.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/button-group.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/buttons.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/card.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/carousel.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/collapse.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/dropdowns.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/forms.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/input-group.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/jumbotron.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/list-group.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/modal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/navbar.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/navs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/pagination.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/popovers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/progress.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/scrollspy.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/components/tooltips.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/content/code.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/content/figures.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/content/images.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/content/reboot.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/content/tables.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/content/typography.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/album/album.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/album/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/blog/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/blog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/carousel/carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/carousel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/cover/cover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/cover/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/dashboard/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/dashboard/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/grid/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/grid/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/jumbotron/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/jumbotron/jumbotron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/justified-nav/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/justified-nav/justified-nav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/narrow-jumbotron/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/narrow-jumbotron/narrow-jumbotron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/navbar-top-fixed/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/navbar-top-fixed/navbar-top-fixed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/navbar-top/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/navbar-top/navbar-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/navbars/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/navbars/navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/offcanvas/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/offcanvas/offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/offcanvas/offcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/signin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/signin/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/starter-template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/starter-template/starter-template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/sticky-footer-navbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/sticky-footer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/sticky-footer/sticky-footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/tooltip-viewport/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/tooltip-viewport/tooltip-viewport.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/examples/tooltip-viewport/tooltip-viewport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/extend/approach.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/extend/icon-fonts.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/extend/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/accessibility.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/best-practices.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/browsers-devices.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/build-tools.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/contents.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/download.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/introduction.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/javascript.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/getting-started/options.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/layout/grid.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/layout/media-object.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/layout/overview.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/layout/responsive-utilities.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/migration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/search.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/borders.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/clearfix.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/close-icon.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/colors.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/display-property.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/flexbox.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/image-replacement.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/invisible-content.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/position.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/responsive-helpers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/screenreaders.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/sizing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/spacing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/typography.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/docs/utilities/vertical-align.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/grunt/change-version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/grunt/npm-shrinkwrap.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/grunt/postcss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/grunt/upload-preview.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/alert.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/button.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/carousel.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/collapse.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/dropdown.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/modal.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/popover.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/scrollspy.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/tab.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/tooltip.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/phantom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/collapse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/popover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/scrollspy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/tooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/nuget/MyGet.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/nuget/bootstrap.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/nuget/bootstrap.sass.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/sache.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/.scss-lint.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_breadcrumb.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_button-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_custom-forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_custom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_popover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_responsive-embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/bootstrap-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/bootstrap-reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_navbar-align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_text-hide.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_text-truncate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_transforms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_background.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_borders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_display.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_flex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_screenreaders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_sizing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_spacing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_visibility.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/connection.php" afterPath="$PROJECT_DIR$/connection.php" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +595,76 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/angular/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/js/angular/controllers/controller.js" />
+        <option value="$PROJECT_DIR$/public/js/angular/angular.js" />
+        <option value="$PROJECT_DIR$/app/views/contato.html" />
+        <option value="$PROJECT_DIR$/public/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/public/js/angular/controllers/controllers.js" />
+        <option value="$PROJECT_DIR$/connection.php" />
+        <option value="$PROJECT_DIR$/app/views/home.html" />
+        <option value="$PROJECT_DIR$/public/js/angular/config.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -31,7 +678,9 @@
     <option name="width" value="1696" />
     <option name="height" value="1026" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -59,6 +708,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularEssencial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularEssencial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularEssencial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularEssencial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -69,9 +750,22 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\AngularEssencial" />
+      <recent name="C:\xampp\htdocs\AngularEssencial\public\tether" />
+      <recent name="C:\xampp\htdocs\AngularEssencial\public\js\angular" />
+      <recent name="C:\xampp\htdocs\AngularEssencial\public\css" />
+      <recent name="C:\xampp\htdocs\AngularEssencial\public\js\jquery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\AngularEssencial\public\js\jquery" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -105,6 +799,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -138,43 +838,264 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489031128528</updated>
-      <workItem from="1489031141012" duration="127000" />
+      <workItem from="1489031141012" duration="5135000" />
+      <workItem from="1489103300463" duration="2669000" />
+      <workItem from="1489107465680" duration="752000" />
     </task>
+    <task id="LOCAL-00001" summary="6 - Rotas">
+      <created>1489035992525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1489035992525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="7 - Rota Home Atualizada">
+      <created>1489108132378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489108132378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127000" />
+    <option name="totallyTimeSpent" value="8556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984913" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984913" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33099416" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6 - Rotas" />
+    <MESSAGE value="7 - Rota Home Atualizada" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 - Rota Home Atualizada" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/ng_table.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contato.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/tether/js/tether.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_old.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
