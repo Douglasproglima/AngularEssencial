@@ -1,7 +1,49 @@
 body {
+    width: 100%;
+    height: 100%;
     font-family: "Kalam";
     /*font-family: "Amatic SC";*/
     padding: 10px 10px 10px 10px;
+
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.navbar-brand{
+
+}
+
+.navbar-brand>img{
+    margin: auto 0px auto 15px !important;
+    padding: auto;
+}
+
+.navbar-header{
+    margin-left:-4%!important;
+}
+
+.navbar-left{
+    margin-left:38.7px;
+}
+
+.navbar-right{
+    margin-right:21px;
+    font-size: 18px;
+}
+
+.navbar-inverse{
+    border:none;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border:none;
 }
 
 #pesquisaProd {
