@@ -26,7 +26,16 @@
     </div>
 </div>
 
-<br>
+</br>
+
+<button ng-click="cadastrar =! cadastrar">Novo</button>
+<div id="adicionar" ng-show="cadastrar">
+    <input type="text" ng-model="produto.descricao" />
+    <input type="number" min="1" ng-model="produto.preco" />
+    <button ng-click="salvar()">Salvar</button>
+</div>
+
+</br>
 
 <table width="100%" cellspacing="0" class="table table-striped" style="font-size: 16px; padding-left: 2px;">
     <thead>
