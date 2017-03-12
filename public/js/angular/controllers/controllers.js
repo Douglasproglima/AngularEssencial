@@ -6,6 +6,12 @@ myApp.controller('homeController', function($scope) {
         var indexOf = $scope.produtos.indexOf(index);
         $scope.produtos.splice(indexOf, 1);
     }
+
+    /*include no controller
+    $scope.header = '/public/template/header.html';
+    * */
+
+    $scope.menu = 'public/template/menu.html';
 });
 
 myApp.controller('contatoController', function($scope) {
